@@ -1,0 +1,46 @@
+.btn{
+width: 20px;
+height: 20px;
+display: inline-block;
+border: 2px grey;
+cursor: pointer;
+border-radius: 50%;
+text-shadow: grey;
+}
+
+#white{
+background-color: #d4c9c9;
+
+}
+
+#green{
+
+background-color: #3cff00;
+
+}
+
+#cyan{
+
+background-color: #61ddfc;
+
+}
+
+#purple{
+
+background-color: #d27ef8;
+
+}
+
+#red{
+
+background-color: #000000;
+
+}
+
+.input-color{
+
+padding: 100px;
+margin: auto;
+text-align: center;
+
+}
